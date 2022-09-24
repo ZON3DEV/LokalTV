@@ -125,73 +125,73 @@ rtsp://192.168.178.1:554/?avm=1&freq=450&bw=8&msys=dvbc&mtype=256qam&sr=6900&spe
 #EXTINF:0,:-1 tvg-name="rbb Brandenburg" tvg-id="DasErste.de" group-title="FreeTV" tvg-logo="https://raw.githubusercontent.com/ZON3DEV/LokalTV/main/Senderlogos/rbb.png",rbb Brandenburg
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.1:554/?avm=1&freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,500,501,502,503,504,670,2171,2176
-#EXTINF:0,NDR FS MV
+#EXTINF:0,:-1 tvg-name="NDR FS MV" tvg-id="DasErste.de" group-title="FreeTV" tvg-logo="https://raw.githubusercontent.com/ZON3DEV/LokalTV/main/Senderlogos/NDR.png",NDR FS MV
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.1:554/?avm=1&freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,2400,2401,33,2402,2403,2404,2670,2676
-#EXTINF:0,MDR Sachsen
+#EXTINF:0,:-1 tvg-name="MDR Sachsen" tvg-id="DasErste.de" group-title="FreeTV" tvg-logo="https://raw.githubusercontent.com/ZON3DEV/LokalTV/main/Senderlogos/MDR.png",MDR Sachsen
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.1:554/?avm=1&freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,2800,2801,35,2802,2803,2804,2805,2870,2876
-#EXTINF:0,rbb Brandenburg HD
+#EXTINF:0,:-1 tvg-name="rbb Brandenburg HD" tvg-id="DasErste.de" group-title="FreeTV" tvg-logo="https://raw.githubusercontent.com/ZON3DEV/LokalTV/main/Senderlogos/rbb_hd.png",rbb Brandenburg HD
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.1:554/?avm=1&freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,5300,5301,34,36,37,5302,5303,5304,5305
-#EXTINF:0,Das Erste
+#EXTINF:0,:-1 tvg-name="Das Erste" tvg-id="DasErste.de" group-title="FreeTV" tvg-logo="https://raw.githubusercontent.com/ZON3DEV/LokalTV/main/Senderlogos/ard.png",Das Erste
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.1:554/?avm=1&freq=338&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,100,101,102,103,104,105,106,1176,2070,2171
-#EXTINF:0,BR Fernsehen Süd
+#EXTINF:0,:-1 tvg-name="BR Fernsehen Süd" tvg-id="DasErste.de" group-title="FreeTV" tvg-logo="https://raw.githubusercontent.com/ZON3DEV/LokalTV/main/Senderlogos/BR.png",BR Fernsehen Süd
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.1:554/?avm=1&freq=338&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,200,201,202,203,204,205,206,1077,2171,2178
-#EXTINF:0,hr-fernsehen
+#EXTINF:0,:-1 tvg-name="HR Fernsehen" tvg-id="DasErste.de" group-title="FreeTV" tvg-logo="https://raw.githubusercontent.com/ZON3DEV/LokalTV/main/Senderlogos/HR.png",HR Fernsehen
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.1:554/?avm=1&freq=338&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,300,301,302,303,304,2171,2270,2276
-#EXTINF:0,WDR Köln
+#EXTINF:0,:-1 tvg-name="WDR Köln" tvg-id="DasErste.de" group-title="FreeTV" tvg-logo="https://raw.githubusercontent.com/ZON3DEV/LokalTV/main/Senderlogos/WDR.png",WDR Köln
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.1:554/?avm=1&freq=338&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,600,601,602,603,604,605,2171,2370,2376
-#EXTINF:0,SWR Fernsehen RP
+#EXTINF:0,:-1 tvg-name="SWR Fernsehen" tvg-id="DasErste.de" group-title="FreeTV" tvg-logo="https://raw.githubusercontent.com/ZON3DEV/LokalTV/main/Senderlogos/SWR.png",SWR Fernsehen
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.1:554/?avm=1&freq=338&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,800,801,802,803,804,806,2171,2470,2476
-#EXTINF:0,ARD-alpha bis 14.12.2021 zu HD wechseln
+#EXTINF:0,:-1 tvg-name="ARD Alpha" tvg-id="DasErste.de" group-title="FreeTV" tvg-logo="https://raw.githubusercontent.com/ZON3DEV/LokalTV/main/Senderlogos/alpha.png",ARD Alpha
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.1:554/?avm=1&freq=330&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,1400,1401,1402,1403,2171
-#EXTINF:0,tagesschau24
+#EXTINF:0,:-1 tvg-name="Tagesschau24" tvg-id="DasErste.de" group-title="FreeTV" tvg-logo="https://raw.githubusercontent.com/ZON3DEV/LokalTV/main/Senderlogos/Tagesschau24.png",Tagesschau24
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.1:554/?avm=1&freq=330&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,100,101,102,104,170,176,2171
-#EXTINF:0,ONE
+#EXTINF:0,:-1 tvg-name="ONE" tvg-id="DasErste.de" group-title="FreeTV" tvg-logo="https://raw.githubusercontent.com/ZON3DEV/LokalTV/main/Senderlogos/one.png",ONE
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.1:554/?avm=1&freq=330&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,200,201,202,203,204,206,270,276,2171
-#EXTINF:0,arte
+#EXTINF:0,:-1 tvg-name="Arte" tvg-id="DasErste.de" group-title="FreeTV" tvg-logo="https://raw.githubusercontent.com/ZON3DEV/LokalTV/main/Senderlogos/arte.png",Arte
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.1:554/?avm=1&freq=330&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,400,401,402,403,404,408,470,1276
-#EXTINF:0,phoenix
+#EXTINF:0,:-1 tvg-name="Phoenix" tvg-id="DasErste.de" group-title="FreeTV" tvg-logo="https://raw.githubusercontent.com/ZON3DEV/LokalTV/main/Senderlogos/phoenix.png",Phoenix
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.1:554/?avm=1&freq=330&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,500,501,502,503,504,570,576,2171
-#EXTINF:0,SR Fernsehen
+#EXTINF:0,#EXTINF:0,:-1 tvg-name="SR Fernsehen" tvg-id="DasErste.de" group-title="FreeTV" tvg-logo="https://raw.githubusercontent.com/ZON3DEV/LokalTV/main/Senderlogos/SR.png",SR Fernsehen
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.1:554/?avm=1&freq=330&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,300,1301,1302,1303,1304,2171,2970,2976
-#EXTINF:0,sixx
+#EXTINF:0,:-1 tvg-name="Sixx" tvg-id="DasErste.de" group-title="FreeTV" tvg-logo="https://raw.githubusercontent.com/ZON3DEV/LokalTV/main/Senderlogos/Sixx.png",Sixx
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.1:554/?avm=1&freq=442&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,104,1181,1182,1184,1186
-#EXTINF:0,TELE 5
+#EXTINF:0,:-1 tvg-name="Tele 5" tvg-id="DasErste.de" group-title="FreeTV" tvg-logo="https://raw.githubusercontent.com/ZON3DEV/LokalTV/main/Senderlogos/Tele5.png",Tele 5
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.1:554/?avm=1&freq=442&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,115,411,412,414
-#EXTINF:0,Eurosport 1
+#EXTINF:0,:-1 tvg-name="Eurosport 1" tvg-id="DasErste.de" group-title="FreeTV" tvg-logo="https://raw.githubusercontent.com/ZON3DEV/LokalTV/main/Senderlogos/Eurosport.png",Eurosport 1
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.1:554/?avm=1&freq=442&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,113,2921,2922,2924,2926
-#EXTINF:0,ProSieben
+#EXTINF:0,:-1 tvg-name="Pro Sieben" tvg-id="DasErste.de" group-title="FreeTV" tvg-logo="https://raw.githubusercontent.com/ZON3DEV/LokalTV/main/Senderlogos/pro7.png",Pro Sieben
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.1:554/?avm=1&freq=442&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,101,2201,2202,2203,2204,2206
-#EXTINF:0,kabel eins
+#EXTINF:0,:-1 tvg-name="Kabel 1" tvg-id="DasErste.de" group-title="FreeTV" tvg-logo="https://raw.githubusercontent.com/ZON3DEV/LokalTV/main/Senderlogos/Kabel1.png",Kabel 1
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.1:554/?avm=1&freq=442&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,109,2301,2302,2304,2306
-#EXTINF:0,WELT
+#EXTINF:0,:-1 tvg-name="Welt" tvg-id="DasErste.de" group-title="FreeTV" tvg-logo="https://raw.githubusercontent.com/ZON3DEV/LokalTV/main/Senderlogos/Welt.png",Welt
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.1:554/?avm=1&freq=442&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,114,2801,2802,2804
-#EXTINF:0,SUPER RTL
+#EXTINF:0,:-1 tvg-name="Super RTL" tvg-id="DasErste.de" group-title="FreeTV" tvg-logo="https://raw.githubusercontent.com/ZON3DEV/LokalTV/main/Senderlogos/Super_RTL.png",Super RTL
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.1:554/?avm=1&freq=394&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,111,1501,1500,1502,1504,1506,1507,1508
-#EXTINF:0,RTLZWEI
+#EXTINF:0,:-1 tvg-name="RTL Zwei" tvg-id="DasErste.de" group-title="FreeTV" tvg-logo="https://raw.githubusercontent.com/ZON3DEV/LokalTV/main/Senderlogos/RTL2.png",RTL Zwei
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.1:554/?avm=1&freq=394&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,112,1601,1600,1602,1604,1606,1607,1608
-#EXTINF:0,VOX
+#EXTINF:0,:-1 tvg-name="VOX" tvg-id="DasErste.de" group-title="FreeTV" tvg-logo="https://raw.githubusercontent.com/ZON3DEV/LokalTV/main/Senderlogos/Vox.png",VOX
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.1:554/?avm=1&freq=394&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,113,1701,1700,1702,1704,1706,1707,1708
 #EXTINF:0,ntv
