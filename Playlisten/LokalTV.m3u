@@ -107,7 +107,7 @@ rtsp://192.168.178.1:554/?avm=1&freq=402&bw=8&msys=dvbc&mtype=256qam&sr=6900&spe
 #EXTINF:0,:-1 tvg-name="TLC" tvg-id="DasErste.de" group-title="FreeTV" tvg-logo="https://raw.githubusercontent.com/ZON3DEV/LokalTV/main/Senderlogos/TLC.png",TLC
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.1:554/?avm=1&freq=402&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,104,881,882,884,886
-#EXTINF:0,:-1 tvg-name="ZDF" tvg-id="DasErste.de" group-title="FreeTV" tvg-logo="https://raw.githubusercontent.com/ZON3DEV/LokalTV/main/Senderlogos/ZDF.png",ZDF
+#EXTINF:0,:-1 tvg-name="ZDF" tvg-id="DasErste.de" group-title="FreeTV" tvg-logo="https://raw.githubusercontent.com/ZON3DEV/LokalTV/main/Senderlogos/zdf.png",ZDF
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.1:554/?avm=1&freq=450&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,100,110,120,121,122,125,130,131,950
 #EXTINF:0,:-1 tvg-name="3sat" tvg-id="DasErste.de" group-title="FreeTV" tvg-logo="https://raw.githubusercontent.com/ZON3DEV/LokalTV/main/Senderlogos/3sat.png",3sat
